@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="431c47f2-77ff-41ac-ba00-319a54b21a77" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/out/production/pierwszy-projekt/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/out/production/pierwszy-projekt/Main2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/out/production/pierwszy-projekt/Main3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/out/production/pierwszy-projekt/Main4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/out/production/pierwszy-projekt/Main5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/out/production/pierwszy-projekt/Main6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/out/production/pierwszy-projekt/Main7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/out/production/pierwszy-projekt/Main8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/out/production/pierwszy-projekt/Main9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/pierwszy-projekt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/src/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/src/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/src/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/src/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/src/Main7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/src/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.06-pierwszy-projekt-master/src/Main9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master-rozwiazania/.idea/2021.03.07-zadania-master-rozwiazania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master-rozwiazania/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master-rozwiazania/2021.03.07-zadania-master/zadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/out/production/zadania/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/out/production/zadania/Main2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/out/production/zadania/Main3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/src/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.07-zadania-master/zadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-obiektowosc-master/2021.03.14-obiektowosc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-obiektowosc-master/src/Kwadrat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-obiektowosc-master/src/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-obiektowosc-master/src/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-obiektowosc-master/src/engine/Klasa1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-obiektowosc-masterA/2021.03.14-obiektowosc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-wlasne/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-wlasne/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-wlasne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-wlasne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-wlasne/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-wlasne/2021.03.14-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-wlasne/out/production/2021.03.14-wlasne/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-wlasne/out/production/2021.03.14-wlasne/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-wlasne/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.14-wlasne/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.20 - wlasne/2021.03.20 - wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.20 - wlasne/src/pl/camp/it/car/rent/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.20 - wlasne/src/pl/camp/it/car/rent/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.20 - wlasne/src/pl/camp/it/car/rent/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.20-carRent-masterA/carRent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.20-carRent-masterB/carRent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.20-carRent-masterC/carRent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.20-carRent-masterD/carRent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-carRent-REFACTORINGILOGOWANIE/2021.03.20-carRent-master/carRent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-dziedziczenie-master/dziedziczenie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-dziedziczenie-wlasne/2021.03.21-dziedziczenie-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-dziedziczenie-wlasne/src/pl/camp/it/Klasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-dziedziczenie-wlasne/src/pl/camp/it/Kot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-dziedziczenie-wlasne/src/pl/camp/it/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-dziedziczenie-wlasne/src/pl/camp/it/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-dziedziczenie-wlasne/src/pl/camp/it/Pajak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-dziedziczenie-wlasne/src/pl/camp/it/Pies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-dziedziczenie-wlasne/src/pl/camp/it/Ssak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-dziedziczenie-wlasne/src/pl/camp/it/Zwierze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-gitTest-master/gitTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.03.21-gitTestA/2021.03.21-gitTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.10-abstrakcja-wlasne/2021.04.10-abstrakcja-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.10-abstrakcja-wlasne/src/pl/it/camp/Interfejs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.10-abstrakcja-wlasne/src/pl/it/camp/Interfejs2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.10-abstrakcja-wlasne/src/pl/it/camp/Interfejs3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.10-abstrakcja-wlasne/src/pl/it/camp/Klasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.10-abstrakcja-wlasne/src/pl/it/camp/KlasaDziedziczaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.10-abstrakcja-wlasne/src/pl/it/camp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.10-abstrakcja-wlasne/src/pl/it/camp/TwoInterfacceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.10-proj_test_git/2021.04.10-proj_test_git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.11-kolekcje-master/kolekcje.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.11-kolekcje-wlasne/kolekcje-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.11-kolekcje-wlasne/src/pl/it/camp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.11-kolekcje-wlasne/src/pl/it/camp/zbiory/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.11-kolekcje-wlasne/src/pl/it/camp/zbiory/uogólnienie/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-pliki-master/pliki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-pliki-wlasne/2021.04.17-pliki-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-pliki-wlasne/src/pl/camp/it/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-wyjatki-master/wyjatki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-wyjatki-wlasne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-wyjatki-wlasne/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-wyjatki-wlasne/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-wyjatki-wlasne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-wyjatki-wlasne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-wyjatki-wlasne/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-wyjatki-wlasne/2021.04.17-wyjatki-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-wyjatki-wlasne/src/pl/camp/it/DyvidedByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.17-wyjatki-wlasne/src/pl/camp/it/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-maven-master/.idea/2021.04.18-maven-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-maven-master/maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-maven-wlasne/2021.04.18-maven-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-maven-wlasne/maven-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-maven-wlasne/src/main/java/pl/camp/it/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-rekursja-master/rekursja.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-rekursja-wlasne/2021.04.18-rekursja-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-rekursja-wlasne/src/pl/it/camp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-sortowanie-master/2021.04.18-sortowanie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-sortowanie-wlasne/2021.04.18-sortowanie-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-sortowanie-wlasne/src/pl/it/camp/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-sortowanie-wlasne/src/pl/it/camp/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-sortowanie-wlasne/src/pl/it/camp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.18-sortowanie-wlasne/src/pl/it/camp/PorownywaczPsówPoImionachMalejaco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.19-numberOfParentheses/2021.04.19-numberOfParentheses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.19-numberOfParentheses/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.19-numberOfParentheses/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.22-rekurencja-zadania/2021.04.22-rekurencja-zadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.22-rekurencja-zadania/src/pl/camp/it/RecursionOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.23-rekurencja-zdadanie2/2021.04.23-rekurencja-zdadanie2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.23-rekurencja-zdadanie2/src/pl/camp/it/RecursionTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.23-rekurencja-zdadanie2/src/pl/camp/it/RecursionTwoB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.24-rekurencja-zadania-nazajeciach/2021.04.24-rekurencja-zadania-nazajeciach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.24-rekurencja-zadania-nazajeciach/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.24-rekurencja-zadania-nazajeciach/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.24-rekurencja-zadania-nazajeciach/src/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-ioc-wlasne/ioc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-ioc-wlasne/src/main/java/pl/camp/it/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-ioc-wlasne/src/main/java/pl/camp/it/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-ioc-wlasne/src/main/java/pl/camp/it/database/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-ioc-wlasne/src/main/java/pl/camp/it/database/UserRepisitoryDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-ioc-wlasne/src/main/java/pl/camp/it/database/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-ioc-wlasne/src/main/java/pl/camp/it/database/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-ioc-wlasne/src/main/java/pl/camp/it/gui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-web-wlasne/2021.04.25-web-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-web-wlasne/src/main/java/pl/camp/it/confirgration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-web-wlasne/src/main/java/pl/camp/it/controllers/SimpleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-web-wlasne/src/main/resources/static/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-web-wlasne/src/main/resources/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-web-wlasne/src/main/resources/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-web-wlasne/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.25-web-wlasne/src/main/resourcesMY/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExample2/2021.04.27-AppExample2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExample2/src/main/java/pl/ts/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExample2/src/main/java/pl/ts/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExample2/src/main/java/pl/ts/controllers/SimpleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExample2/src/main/resources/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExample2/src/main/resources/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExample2/src/main/resources/templates/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExample2/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExampleSpring/2021.04.27-AppExampleSpring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExampleSpring/src/main/java/pl/ts/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExampleSpring/src/main/java/pl/ts/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExampleSpring/src/main/java/pl/ts/configuration/AppConfiguration2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExampleSpring/src/main/java/pl/ts/database/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExampleSpring/src/main/java/pl/ts/database/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExampleSpring/src/main/java/pl/ts/database/UserRepositoryDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExampleSpring/src/main/java/pl/ts/gui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.27-AppExampleSpring/src/main/java/pl/ts/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/2021.04.29-zadania-tab-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Kot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Kwadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Main7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Main9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Pies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.04.29-zadania-tab-wlasne/src/pl/task/array/Ssak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/2021.05.08-book-store-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/java/pl/it/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/java/pl/it/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/java/pl/it/controllers/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/java/pl/it/controllers/CommonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/java/pl/it/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/java/pl/it/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/java/pl/it/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/java/pl/it/model/view/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/java/pl/it/session/SessionObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/java/pl/it/validators/BookValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/static/addBook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/static/addbook.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/static/commmons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/static/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/static/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/static/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/templates/addBook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-bookStore-master-ostatni/2021.05.08-bookStore-master/bookStore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-bookStore-master/bookStore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-enum-master/enum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-wlasne-ts/2021.05.08-wlasne-ts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-wlasne-ts/src/main/java/pl/camp/it/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-wlasne-ts/src/main/java/pl/camp/it/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/2021.05.10-wlasne-Ts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/MainTestTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/MultiCatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/Pajak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/Pies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/Rozmiary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/Ssak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/ThrowD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/ThrowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.10-wlasne-Ts/src/main/java/pl/test/Zwierze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.12-String-question/2021.05.12-String-question.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.12-String-question/src/main/java/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.17-allegro/2021.05.17-allegro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.17-allegro/src/main/java/pl/camp/it/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.17-allegro/src/main/java/pl/camp/it/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.17-allegro/src/main/java/pl/camp/it/controllers/UploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.17-allegro/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.17-allegro/src/main/resources/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.17-allegro/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.20-wlanse-zad/2021.05.20-wlanse-zad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.20-wlanse-zad/src/main/java/test/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.20-wlanse-zad/src/main/java/test/example/database/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.22-file-master/file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.24-ZTS/2021.05.24-ZTS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.24-ZTS/src/main/java/pl/ts/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.24-ZTS/src/main/java/pl/ts/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.24-ZTS/src/main/java/pl/ts/gui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.24-ZTS/src/main/java/pl/ts/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.24-ZTS/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/2021.05.27-ALLEGRO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/src/main/java/pl/ts/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/src/main/java/pl/ts/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/src/main/java/pl/ts/controllers/CommonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/src/main/java/pl/ts/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/src/main/java/pl/ts/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/src/main/resources/static/allegroLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/src/main/resources/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.30-bookstore-F/.idea/2021.05.30-bookstore-F.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.30-bookstore-F/2021.05.08-bookStore-master/bookStore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.30-regex-master/regex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/2021.06.16-fastEat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/configuration/AppConfiguration2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/controller/SimpleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/database/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/database/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/database/UserRepositoryDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/gui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.19-hibernate-wlasne/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.22-junit-wlasne/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.22-junit-wlasne/src/main/java/ProductRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.22-junit2-wlanse/src/main/java/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.22-junit2-wlanse/src/test/java/AnnotationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.22-junit2-wlanse/src/test/java/ClockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.22-junit2-wlanse/src/test/java/ProductRatingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.28-zad-ts/src/main/java/pl/ts/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.28-zad-ts/src/main/java/pl/ts/model/Domain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.07.01-test-wlasny2/src/main/java/pl/ts/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.07.01-test-wlasny2/src/main/java/pl/ts/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.07.01-test-wlasny2/src/main/java/pl/ts/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/controllers/CommonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/model/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/model/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/model/Wallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App2/App2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App2/src/pl/it/camp/music/store/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App2/src/pl/it/camp/music/store/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App2/src/pl/it/camp/music/store/gui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App2/src/pl/it/camp/music/store/model/Gitara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App2/src/pl/it/camp/music/store/model/Perkusja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App2/src/pl/it/camp/music/store/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App2/src/pl/it/camp/music/store/model/Trabka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App2/src/pl/it/camp/music/store/model/Wzmacniacz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bez tytułu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NAGRANIA/Nagranie_IT Camp_Junior Java Developer_Marzec 2021.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYTANIA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj_1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj_1/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj_1/Proj_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj_1/out/production/Proj_1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj_1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Rozwiazania_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie1-Rozwiazanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie2-Pytanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie2-Pytanie2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie2-Rozwiazanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie3-Rozwiazanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie4-Pytanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie4-Rozwiazanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie5-Pytanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie5-Rozwiazanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie6-Pytanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie6-Pytanie2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie6-Rozwiazanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie6-Rozwiazanie2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie7-Pytanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie7-Pytanie2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie7-Rozwiazanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie7-Rozwiazanie2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie8-Rozwiazanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/Zadanie8-Rozwiazanie2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/out/production/Rozwiazania_1/Zadanie1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/out/production/Rozwiazania_1/Zadanie2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/out/production/Rozwiazania_1/Zadanie3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/out/production/Rozwiazania_1/Zadanie4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/out/production/Rozwiazania_1/Zadanie5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/out/production/Rozwiazania_1/Zadanie6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/out/production/Rozwiazania_1/Zadanie7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/out/production/Rozwiazania_1/Zadanie8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/src/Zadanie1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/src/Zadanie2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/src/Zadanie3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/src/Zadanie4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/src/Zadanie5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/src/Zadanie6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/src/Zadanie7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rozwiazania_1/src/Zadanie8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SORTOWANIE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Terminarz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZADANIA_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZADANIE REKRUTACYJNE/.idea/ZADANIE REKRUTACYJNE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZADANIE REKRUTACYJNE/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZADANIE REKRUTACYJNE/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZADANIE REKRUTACYJNE/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZADANIE REKRUTACYJNE/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZADANIE REKRUTACYJNE/Junior_java.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/ZTS2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/controllers/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/controllers/CommonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/dao/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/dao/impl/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/model/view/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/services/IAuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/services/impl/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/session/SessionObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/validators/LoginValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/java/pl/ts/validators/UserValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/static/addUser.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/static/addUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/static/commons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/static/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/static/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/static/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/static/userLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/templates/addUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/templates/editUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/templates/fragments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZTS2/src/main/resources/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/Zadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/Function.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/Main2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/Main3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/Main4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/Main5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/ZadaniaPow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaPow/src/Main84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/Pytanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/Pytanie2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/Pytanie3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/Pytanie4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/Rozwiązanie1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/Rozwiązanie2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/Wstawianie-Rozwiazanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/ZadanieDomoweSortowanie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/out/production/ZadanieDomoweSortowanie/META-INF/ZadanieDomoweSortowanie.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/out/production/ZadanieDomoweSortowanie/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/out/production/ZadanieDomoweSortowanie/Main3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/out/production/ZadanieDomoweSortowanie/Wstawianie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/out/production/ZadanieDomoweSortowanie/Wybieranie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/src/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/src/Wstawianie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieDomoweSortowanie/src/Wybieranie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../podpowiedzi.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.03.21-gitTest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.03.21-gitTest/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.03.21-gitTest/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.03.21-gitTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.03.21-gitTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.03.21-gitTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.03.21-gitTest/2021.03.21-gitTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.03.21-gitTest/src/pl/camp/it/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uvxOESGfZmSwN679K5baYU7uaJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.ts.App" />
+      <module name="2021.07.06-myAppMyEating" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.ts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="431c47f2-77ff-41ac-ba00-319a54b21a77" name="Default Changelist" comment="" />
+      <created>1625559830242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625559830242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1625566576423">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625566576423" />
+    <state width="1557" height="99" key="GridCell.Tab.0.bottom" timestamp="1625571892355">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="99" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625571892355" />
+    <state width="1557" height="99" key="GridCell.Tab.0.center" timestamp="1625571892355">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="99" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625571892355" />
+    <state width="1557" height="99" key="GridCell.Tab.0.left" timestamp="1625571892355">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="99" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625571892355" />
+    <state width="1557" height="99" key="GridCell.Tab.0.right" timestamp="1625571892355">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="99" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625571892355" />
+    <state x="280" y="5" key="SettingsEditor" timestamp="1625566379342">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="5" key="SettingsEditor/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625566379342" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1625569440039">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625569440039" />
+  </component>
+</project>

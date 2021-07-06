@@ -1,0 +1,4 @@
+Address - ta klasa będzie wykorzystywana przez klientów i przez restauracje. 
+Adres dla klientów to adres dostawy zamówionego posiłku. Adres ich lokalizacji.
+
+Dish - danie - ma pola prywatne smak - możliwy wybór słony lub słodki - jest to enum.  
