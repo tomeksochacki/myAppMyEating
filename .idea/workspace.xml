@@ -205,6 +205,10 @@
       <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/templates/addBook.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/templates/contact.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.05.08-book-store-wlasne/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-bookStore-master-(aktualizacja20.062021)/2021.05.08-bookStore-master/bookStore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-bookStore-master-23.06.2021/2021.05.08-bookStore-master-23.06.2021/.idea/2021.05.08-bookStore-master-23.06.2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-bookStore-master-23.06.2021/2021.05.08-bookStore-master-23.06.2021/bookStore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.08-bookStore-master-ostatni/.idea/2021.05.08-bookStore-master-ostatni.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.05.08-bookStore-master-ostatni/2021.05.08-bookStore-master/bookStore.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.05.08-bookStore-master/bookStore.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.05.08-enum-master/enum.iml" afterDir="false" />
@@ -253,6 +257,7 @@
       <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/src/main/resources/static/allegroLogo.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/src/main/resources/static/main.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.05.27-ALLEGRO/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.05.29-jdbc-master/.idea/2021.05.29-jdbc-master.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.05.30-bookstore-F/.idea/2021.05.30-bookstore-F.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.05.30-bookstore-F/2021.05.08-bookStore-master/bookStore.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.05.30-regex-master/regex.iml" afterDir="false" />
@@ -266,30 +271,42 @@
       <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/database/UserRepositoryDB.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/gui/GUI.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.06.16-fastEat/src/main/java/pl/ts/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.19-hibernate-wlasne/2021.06.19-hibernate-wlasne.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.06.19-hibernate-wlasne/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.20-daty-master/daty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.20-hibernate-master/hibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.20-rest-wlasne/2021.06.20-rest-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.20-restClient-wlasne/2021.06.20-restClient-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.20-restProvider-master-23.06.2021/2021.06.20-restProvider-master/restProvider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.20-restProvider-master/.idea/2021.06.20-restProvider-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.20-restProvider-master/restProvider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.20-wlasne-daty/2021.06.20-wlasne-daty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.22-junit-wlasne/2021.06.22-junit-wlasne.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.06.22-junit-wlasne/src/main/java/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.06.22-junit-wlasne/src/main/java/ProductRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.22-junit2-wlanse/2021.06.22-junit2-wlanse.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.06.22-junit2-wlanse/src/main/java/Clock.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.06.22-junit2-wlanse/src/test/java/AnnotationsTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.06.22-junit2-wlanse/src/test/java/ClockTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.06.22-junit2-wlanse/src/test/java/ProductRatingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.27-soap-prowider-wlasne/2021.06.27-soap-prowider-wlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.27-testy-wlans/2021.06.27-testy-wlans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.06.28-zad-ts/2021.06.28-zad-ts.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.06.28-zad-ts/src/main/java/pl/ts/model/Category.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.06.28-zad-ts/src/main/java/pl/ts/model/Domain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021.07.01-test-wlasny2/2021.07.01-test-wlasny2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.07.01-test-wlasny2/src/main/java/pl/ts/A.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.07.01-test-wlasny2/src/main/java/pl/ts/B.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2021.07.01-test-wlasny2/src/main/java/pl/ts/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/configuration/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/controllers/CommonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/database/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/model/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/model/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/model/Wallet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/controllers/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ts/model/view/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/commons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/acceptedorder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/addorder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/pricerange.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../App2/App2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../App2/src/pl/it/camp/music/store/App.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../App2/src/pl/it/camp/music/store/database/Database.java" afterDir="false" />
@@ -454,6 +471,19 @@
       <change beforePath="$PROJECT_DIR$/../2021.03.21-gitTest/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../2021.03.21-gitTest/2021.03.21-gitTest.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../2021.03.21-gitTest/src/pl/camp/it/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/ts/controllers/CommonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/ts/controllers/CommonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/ts/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/ts/database/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/ts/controllers/CommonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/ts/controllers/CommonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/ts/database/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/ts/database/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -469,7 +499,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uvxOESGfZmSwN679K5baYU7uaJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -480,6 +510,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -519,30 +550,43 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="605" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1625566576423">
+    <state x="605" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1625738985768">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="605" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625566576423" />
-    <state width="1557" height="99" key="GridCell.Tab.0.bottom" timestamp="1625571892355">
+    <state x="605" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625738985768" />
+    <state width="1557" height="186" key="GridCell.Tab.0.bottom" timestamp="1625749494462">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="99" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625571892355" />
-    <state width="1557" height="99" key="GridCell.Tab.0.center" timestamp="1625571892355">
+    <state width="1557" height="186" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625749494462" />
+    <state width="1877" height="371" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1160@1600.0.1920.1160" timestamp="1625640005379" />
+    <state width="1557" height="56" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1625695014773" />
+    <state width="1557" height="186" key="GridCell.Tab.0.center" timestamp="1625749494461">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="99" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625571892355" />
-    <state width="1557" height="99" key="GridCell.Tab.0.left" timestamp="1625571892355">
+    <state width="1557" height="186" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625749494461" />
+    <state width="1877" height="371" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1160@1600.0.1920.1160" timestamp="1625640005379" />
+    <state width="1557" height="56" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1625695014773" />
+    <state width="1557" height="186" key="GridCell.Tab.0.left" timestamp="1625749494461">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="99" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625571892355" />
-    <state width="1557" height="99" key="GridCell.Tab.0.right" timestamp="1625571892355">
+    <state width="1557" height="186" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625749494461" />
+    <state width="1877" height="371" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1160@1600.0.1920.1160" timestamp="1625640005378" />
+    <state width="1557" height="56" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1625695014773" />
+    <state width="1557" height="186" key="GridCell.Tab.0.right" timestamp="1625749494461">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="99" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625571892355" />
+    <state width="1557" height="186" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625749494461" />
+    <state width="1877" height="371" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1160@1600.0.1920.1160" timestamp="1625640005379" />
+    <state width="1557" height="56" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1625695014773" />
     <state x="280" y="5" key="SettingsEditor" timestamp="1625566379342">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="5" key="SettingsEditor/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625566379342" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1625731576932">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1625731576932" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1625688410697" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1625569440039">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

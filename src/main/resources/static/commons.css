@@ -1,0 +1,41 @@
+#title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-fantasy;
+    font-size: 30px;
+}
+
+#logo {
+    margin: 0px auto;
+    display: block;
+}
+
+#menu {
+    text-align: center;
+    font-family: 'Lucida Sans Unicode';
+    font-size: 20px;
+}
+
+#menu a {
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+#menu a:hover {
+    color: yellow;
+}
+
+#content {
+    width: 75%;
+    margin: 0 auto;
+}
+
+#content a:hover {
+    color: green;
+}
+
+#content {
+    text-align: center;
+    font-family: 'Lucida Sans Unicode';
+    font-size: 20px;
+}

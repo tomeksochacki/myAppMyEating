@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>myAppMyEating</title>
+    <link rel="stylesheet" href="/contact.css"/>
+    <link rel="stylesheet" href="/commons.css"/>
+</head>
+<body>
+<div id="title">myAppMyEating</div>
+<img src="/logo.png" alt="Logo" id="logo">
+<div id="menu" class="menu-class">
+    <a href="/main">Strona główna</a>
+    <a href="/order">Zamów i pożryj</a>
+</div>
+<div id="content">
+    <form id="contact-form" method="post" action="/contact">
+        <div id="bold-title">Skontaktuj się z nami!!</div>
+        <input type="text" placeholder="Temat" th:field="*{mail.title}">
+        <textarea th:field="*{mail.message}"></textarea>
+        <input type="text" placeholder="Imie" th:field="*{mail.name}">
+        <input type="submit" value="Wyślij">
+    </form>
+    <div id="info">
+        <div id="bold-title2">Nasz adres!!</div>
+        myAppMyEating<br>
+        tel.000111222<br>
+        Warszawa<br>
+    </div>
+</div>
+</body>
+</html>

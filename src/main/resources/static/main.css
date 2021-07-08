@@ -1,0 +1,48 @@
+#yourdish {
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.dish {
+    border: 1px solid orange;
+    border-radius: 15px;
+    transition: border 0.25s;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.dish:hover {
+    border: 1px solid orange;
+}
+
+.dish-taste {
+    font-size 20px;
+}
+
+.dish-status {
+    font-size 20px;
+}
+
+.dish-info div {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+#kontakt {
+    text-align: center;
+    font-family: 'Lucida Sans Unicode';
+    font-size: 20px;
+}
+
+#kontakt a {
+    color: black;
+    text-decoration: none;
+    margin-top: 35px;
+}
+
+#kontakt a:hover {
+    color: yellow;
+}

@@ -1,0 +1,35 @@
+#info {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 20px;
+    font-family: 'Lucida Sans Unicode';
+}
+
+#contact-form  {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 35px;
+}
+
+#contact-form input[type=text]{
+     display: block;
+     margin: 10px auto;
+     width: 50%;
+     font-size: 20px;
+}
+
+#contact-form textarea{
+    width: 50%;
+    font-size: 15px;
+    resize: none;
+    height: 200px;
+}
+
+#bold-title {
+    font-weight: bold;
+}
+
+#bold-title2 {
+    font-weight: bold;
+}
+

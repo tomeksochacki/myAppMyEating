@@ -10,11 +10,17 @@
 <div id="title">myAppMyEating</div>
 <img src="/logo.png" alt="Logo" id="logo">
 <div id="menu" class="menu-class">
-    <a href="/order">Zamów i pożryj</a>
+    <a href="/main">Strona główna</a>
     <a href="/contact">Kontakt w razie Wu</a>
 </div>
 <div id="content">
+    <th:block th:each="dish : ${dishes}">
+        <div class="dish">
+            <a href="/dish" id="yourdish">
+                <a href="/pricerange" th:text="'TWÓJ SMAK: ' + ${dish.taste}" class="dish-taste"></a>
+            </a>
+        </div>
+    </th:block>
 </div>
-
 </body>
 </html>
