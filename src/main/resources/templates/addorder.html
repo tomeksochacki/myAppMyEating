@@ -2,22 +2,22 @@
 <html lang="en" xmlns:th="www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
-    <title>myAppMyEating</title>
+    <title>fasty</title>
     <link rel="stylesheet" href="/main.css"/>
     <link rel="stylesheet" href="/commons.css"/>
 </head>
 <body>
-<div id="title">myAppMyEating</div>
+<div id="title">myAppMyFood</div>
 <img src="/logo.png" alt="Logo" id="logo">
 <div id="menu" class="menu-class">
-    <a href="/main">Strona główna</a>
-    <a href="/contact">Kontakt w razie Wu</a>
+    <a href="/main"><b>Strona główna</b></a>
+    <a href="/contact"><b>Kontakt w razie Wu</b></a>
 </div>
 <div id="content">
     <th:block th:each="dish : ${dishes}">
         <div class="dish">
-            <a href="/dish" id="yourdish">
-                <a href="/pricerange" th:text="'TWÓJ SMAK: ' + ${dish.taste}" class="dish-taste"></a>
+            <a href="/dish">
+                <a href="/pricerange" th:text="'Twój smak: ' + ${dish.taste}" id="l"></a>
             </a>
         </div>
     </th:block>

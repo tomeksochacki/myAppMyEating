@@ -19,10 +19,17 @@
     color: black;
     text-decoration: none;
     margin: 0 15px;
+    border: 1px solid orange;
+    border-radius: 15px;
+    transition: border 0.25s;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    margin-right: 15px;
 }
 
 #menu a:hover {
-    color: yellow;
+    color: green;
 }
 
 #content {
@@ -38,4 +45,17 @@
     text-align: center;
     font-family: 'Lucida Sans Unicode';
     font-size: 20px;
+}
+
+#range-price a {
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+    border: 1px solid orange;
+    border-radius: 15px;
+    transition: border 0.25s;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    margin-right: 15px;
 }
