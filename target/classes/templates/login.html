@@ -8,8 +8,8 @@
     <script src="/login.js"></script>
 </head>
 <body>
-<div id="title">myAppMyFood</div>
-<img src="/logo.png" alt="Logo" id="logo">
+<div th:replace="fragments.html :: title"></div>
+<div th:replace="fragments.html :: logo"></div>
 <div id="content">
     <form id="login-form" method="post" onsubmit="return validate()">
         <div th:if="${info !=null}" th:text="${info}" class="error-info"></div>

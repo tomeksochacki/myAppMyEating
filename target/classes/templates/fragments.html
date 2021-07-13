@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="zal-wyl" th:fragment="zal-wyl" align="right">
+    <a href="/login"><input type="button" value="Zaloguj się" th:if="${logged == false}"/></a>
+    <a href="/logout"><input type="button" value="Wyloguj się" th:if="${logged == true}"/></a>
+</div>
+
+<div id="title" th:fragment="title">myAppMyFood</div>
+
+<img src="/logo.png" alt="Logo" id="logo" th:fragment="logo">
+
+<div id="menu" class="menu-class" th:fragment="menu">
+    <a href="/main"><b>Strona główna</b></a>
+    <a href="/order"><b>Zamów i pożryj</b></a>
+    <a href="/contact"><b>Kontakt w razie Wu</b></a>
+    <a href="/execution" th:if="${role?.name() == 'ADMIN'}"><b>Przyjmij do realizacji</b></a>
+    <!--<a href="/login" th:if="${logged == false}"><b>Zaloguj się</b></a>
+    <a href="/logout" th:if="${logged == true}"><b>Wyloguj się</b></a>-->
+</div>
+
+</body>
+</html>

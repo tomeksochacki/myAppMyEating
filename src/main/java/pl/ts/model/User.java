@@ -8,12 +8,13 @@ public class User {
     private String surname;
     private Address address;
     private String phoneNumber;
+    private Role role;
     private Wallet wallet; //TODO JAK ZROBIĆ PŁATNOŚĆ PRZELEWEM, KARTĄ ITP.
 
     public User() {
     }
 
-    public User(int id, String login, String password, String name, String surname, Address address, String phoneNumber, Wallet wallet) {
+    public User(int id, String login, String password, String name, String surname, Address address, String phoneNumber, Role role, Wallet wallet) {
         this.id = id;
         this.login = login;
         this.password = password;
@@ -21,6 +22,7 @@ public class User {
         this.surname = surname;
         this.address = address;
         this.phoneNumber = phoneNumber;
+        this.role = role;
         this.wallet = wallet;
     }
 
@@ -86,5 +88,20 @@ public class User {
 
     public void setWallet(Wallet wallet) {
         this.wallet = wallet;
+    }
+
+    public Role getRole() {
+        return role;
+    }
+
+    public void setRole(Role role) {
+        this.role = role;
+    }
+
+    public enum Role{
+        CUSTOMER,
+        COURIER,
+        MANUFACTURER,
+        ADMIN;
     }
 }
