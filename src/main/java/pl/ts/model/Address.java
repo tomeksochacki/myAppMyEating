@@ -2,8 +2,8 @@ package pl.ts.model;
 
 public class Address {
     private int id;
-    private int numberLocal;
-    private int numberHouse;
+    private Integer numberLocal;
+    private Integer numberHouse;
     private String street;
     private String district;
     private String place;
@@ -11,7 +11,7 @@ public class Address {
     public Address() {
     }
 
-    public Address(int id, int numberLocal, int numberHouse, String street, String district, String place) {
+    public Address(int id, Integer numberLocal, Integer numberHouse, String street, String district, String place) {
         this.id = id;
         this.numberLocal = numberLocal;
         this.numberHouse = numberHouse;
@@ -28,19 +28,19 @@ public class Address {
         this.id = id;
     }
 
-    public int getNumberLocal() {
+    public Integer getNumberLocal() {
         return numberLocal;
     }
 
-    public void setNumberLocal(int numberLocal) {
+    public void setNumberLocal(Integer numberLocal) {
         this.numberLocal = numberLocal;
     }
 
-    public int getNumberHouse() {
+    public Integer getNumberHouse() {
         return numberHouse;
     }
 
-    public void setNumberHouse(int numberHouse) {
+    public void setNumberHouse(Integer numberHouse) {
         this.numberHouse = numberHouse;
     }
 

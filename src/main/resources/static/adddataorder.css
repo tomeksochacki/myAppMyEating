@@ -1,0 +1,21 @@
+#data-order-form  {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 35px;
+}
+
+#data-order-form input[type=text]{
+     display: block;
+     margin: 10px auto;
+     width: 50%;
+     font-size: 20px;
+}
+
+#bold-title {
+    font-weight: bold;
+}
+
+#bold-title2 {
+    font-weight: bold;
+}
+

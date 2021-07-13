@@ -50,4 +50,9 @@ public class Database {
         return null;
     }
 
+    public void addOrder(User user, Address address){
+        this.users.add(user);
+        this.addresses.add(address);
+    }
+
 }

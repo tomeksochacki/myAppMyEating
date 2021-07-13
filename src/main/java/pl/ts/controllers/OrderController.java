@@ -4,10 +4,13 @@ import com.sun.org.apache.xpath.internal.operations.Mod;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import pl.ts.database.Database;
+import pl.ts.model.Address;
 import pl.ts.model.Dish;
+import pl.ts.model.User;
 import pl.ts.session.SessionObject;
 
 import javax.annotation.Resource;
@@ -30,6 +33,19 @@ public class OrderController {
         model.addAttribute("role",
                 this.sessionObject.getUser() != null ? this.sessionObject.getUser().getRole() : null);
         return "addorder";
+    }
+
+    @RequestMapping(value = "/dataorder", method = RequestMethod.GET)
+    public String addDataOrderForm(Model model){
+        model.addAttribute("adres", new Address());
+        model.addAttribute("user", new User());
+        return "adddataorder";
+    }
+
+    @RequestMapping(value = "/dataorder", method = RequestMethod.POST)
+    public String addDataOrder(@ModelAttribute User user, @ModelAttribute Address address){
+        this.database.addOrder(user, address);
+        return "acceptedorder";
     }
 
     @RequestMapping(value = "/pricerange", method = RequestMethod.GET)

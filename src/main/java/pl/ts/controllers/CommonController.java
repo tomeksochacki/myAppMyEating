@@ -7,12 +7,10 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import pl.ts.database.Database;
-import pl.ts.model.Dish;
 import pl.ts.model.view.Mail;
 import pl.ts.session.SessionObject;
 
 import javax.annotation.Resource;
-import java.util.List;
 
 @Controller
 public class CommonController {
