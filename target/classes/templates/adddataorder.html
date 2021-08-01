@@ -5,6 +5,7 @@
     <title>fasty</title>
     <link rel="stylesheet" href="/adddataorder.css"/>
     <link rel="stylesheet" href="/commons.css"/>
+    <script src="/addorder.js"></script>
 </head>
 <body>
 <div th:replace="fragments.html :: zal-wyl"></div>
@@ -12,16 +13,16 @@
 <div th:replace="fragments.html :: logo"></div>
 <div th:replace="fragments.html :: menu"></div>
 <div id="content">
-
-    <form id="data-order-form" method="post">
-        <input type="text" placeholder="Imię" th:field="*{user.name}">
-        <input type="text" placeholder="Nazwisko" th:field="*{user.surname}">
-        <input type="text" placeholder="Numer telefonu" th:field="*{user.phoneNumber}">
-        <input type="text" placeholder="Miejscowość" th:field="*{adres.place}">
-        <input type="text" placeholder="Dzielnica" th:field="*{adres.district}">
-        <input type="text" placeholder="Ulica" th:field="*{adres.street}">
-        <input type="text" placeholder="Numer budynku" th:field="*{adres.numberHouse}">
-        <input type="text" placeholder="Numer lokalu" th:field="*{adres.numberLocal}">
+    <form id="data-order-form" method="post" onsubmit="return validate()">
+        <div th:if="${info != null}" th:text="${info}" class="error-info"></div>
+        <input type="text" placeholder="Imię" th:field="*{user.name}" id="name-input">
+        <input type="text" placeholder="Nazwisko" th:field="*{user.surname}" id="surname-input">
+        <input type="text" placeholder="Numer telefonu" th:field="*{user.phoneNumber}" id="phoneNumber-input">
+        <input type="text" placeholder="Miejscowość" th:field="*{adres.place}" id="place-input">
+        <input type="text" placeholder="Dzielnica" th:field="*{adres.district}" id="district-input">
+        <input type="text" placeholder="Ulica" th:field="*{adres.street}" id="street-input">
+        <input type="text" placeholder="Numer budynku" th:field="*{adres.numberHouse}" id="numberHouse-input">
+        <input type="text" placeholder="Numer lokalu" th:field="*{adres.numberLocal}" id="numberLocal-input">
         <input type="submit" value="Wyślij">
     </form>
 </div>

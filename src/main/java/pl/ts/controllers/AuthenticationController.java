@@ -39,6 +39,31 @@ public class AuthenticationController {
         if (user != null) {
             sessionObject.setUser(user);
             return "redirect:/main";
+            /*switch (user.getRole()) {
+                case ADMIN:
+                    return "redirect:/main-admin";
+                break;
+                case COURIER:
+                    return "redirect:/main-courier";
+                break;
+                case CUSTOMER:
+                    return "redirect:/main";
+                break;
+                case MANUFACTURER:
+                    return "redirect:/main-manufacturer";
+                break;
+            }*/
+
+            /*if (user.getRole() == User.Role.ADMIN) {
+                return "redirect:/main-admin";
+            } else if (user.getRole() == User.Role.COURIER) {
+                return "redirect:/main-courier";
+            } else if (user.getRole() == User.Role.MANUFACTURER) {
+                return "redirect:/main-manufacturer";
+            } else if (user.getRole() == User.Role.CUSTOMER) {
+                return "redirect:/main";
+            }*/
+            //TODO sprawidzić czy tu zamiast == nie powinno być equals w tych wszystkich else if-ach
         } else {
             this.sessionObject.setInfo("Logowanie nieudane !!");
             return "redirect:/login";

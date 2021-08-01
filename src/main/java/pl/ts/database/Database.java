@@ -14,6 +14,7 @@ public class Database {
     private List<Address> addresses = new ArrayList<>();
     private List<User> users = new ArrayList<>();
     private List<Wallet> wallets = new ArrayList<>();
+    private List<Order> orders = new ArrayList<>();
 
     public Database() {
         addresses.add(new Address(1, 11, 111, "Włodarzewska", "Ochota", "Warszawa"));
@@ -26,8 +27,8 @@ public class Database {
         restaurants.add(new Restaurant(1, "India express", addresses.get(0), "444555666", "indiaexpress@wp.pl"));
         restaurants.add(new Restaurant(2, "Tutto pizza", addresses.get(1), "111222333", "tuttopizza@wp.pl"));
 
-        dishes.add(new Dish(1, Dish.Taste.SALTY, Dish.Status.ACCEPTED, restaurants.get(0), Dish.PriceRange.UP_TO_20_PLN));
-        dishes.add(new Dish(2, Dish.Taste.SWEET, Dish.Status.ACCEPTED, restaurants.get(1), Dish.PriceRange.UP_TO_100_PLN));
+        dishes.add(new Dish(1, Dish.Taste.SALTY));
+        dishes.add(new Dish(2, Dish.Taste.SWEET));
 
         wallets.add(new Wallet(1, true));
 
@@ -44,15 +45,34 @@ public class Database {
 
     public User authenticate(String login, String password) {
         for (User user : this.users) {
-            if (user.getLogin().equals(login) && user.getPassword().equals(DigestUtils.md5Hex(password))) ;
-            return user;
+            if (user.getLogin().equals(login) && user.getPassword().equals(DigestUtils.md5Hex(password))){
+                return user;
+            }
         }
         return null;
     }
 
-    public void addOrder(User user, Address address){
+   /* public void addOrder(User user, Address address){
         this.users.add(user);
         this.addresses.add(address);
+    }*/
+
+    public void addOrder(Order order){
+        this.orders.add(order);
+    }
+
+    public List<Order> getOrdersForManufacturer(User user){
+        List<Order> result = new ArrayList<>();
+        for (Order order:this.orders){
+            if (order.getUser().getRole().equals(user.getRole() == User.Role.CUSTOMER)){
+                result.add(order);
+            }
+        }
+        return result;
+    }
+    //TODO tu zmienić zrobić żeby był tylko jeden smak z order-a, a nie tak jak teraz z oredra i z dish-a
+    public void addTasteToOrder(Order.Taste taste){
+
     }
 
 }

@@ -15,7 +15,8 @@
     <th:block th:each="dish : ${dishes}">
         <div class="dish">
             <a href="/dish">
-                <a href="/pricerange" th:text="'Twój smak: ' + ${dish.taste}" id="l"></a>
+                <!--<a href="/pricerange/taste" th:text="'Twój smak: ' + ${dish.taste}" id="l"></a>-->
+                <a th:href="@{'/pricerange/' + ${dish.taste}}" th:text="'Twój smak: ' + ${dish.taste}" id="l"></a>
             </a>
         </div>
     </th:block>

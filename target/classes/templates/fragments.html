@@ -16,9 +16,11 @@
 
 <div id="menu" class="menu-class" th:fragment="menu">
     <a href="/main"><b>Strona główna</b></a>
-    <a href="/order"><b>Zamów i pożryj</b></a>
+    <a href="/order" th:if="${role?.name() == 'CUSTOMER'}"><b>Zamów i pożryj</b></a>
     <a href="/contact"><b>Kontakt w razie Wu</b></a>
     <a href="/execution" th:if="${role?.name() == 'ADMIN'}"><b>Przyjmij do realizacji</b></a>
+    <a href="/basket" th:if="${role?.name() == 'CUSTOMER'}"><b>Koszyk</b></a>
+
     <!--<a href="/login" th:if="${logged == false}"><b>Zaloguj się</b></a>
     <a href="/logout" th:if="${logged == true}"><b>Wyloguj się</b></a>-->
 </div>

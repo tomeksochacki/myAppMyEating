@@ -3,19 +3,13 @@ package pl.ts.model;
 public class Dish {
     private int id;
     private Taste taste;
-    private Status status;
-    private Restaurant restaurant;
-    private PriceRange priceRange;
 
     public Dish() {
     }
 
-    public Dish(int id, Taste taste, Status status, Restaurant restaurant, PriceRange priceRange) {
+    public Dish(int id, Taste taste) {
         this.id = id;
         this.taste = taste;
-        this.status = status;
-        this.restaurant = restaurant;
-        this.priceRange = priceRange;
     }
 
     public int getId() {
@@ -32,30 +26,6 @@ public class Dish {
 
     public void setTaste(Taste taste) {
         this.taste = taste;
-    }
-
-    public Status getStatus() {
-        return status;
-    }
-
-    public void setStatus(Status status) {
-        this.status = status;
-    }
-
-    public Restaurant getRestaurant() {
-        return restaurant;
-    }
-
-    public void setRestaurant(Restaurant restaurant) {
-        this.restaurant = restaurant;
-    }
-
-    public PriceRange getPriceRange() {
-        return priceRange;
-    }
-
-    public void setPriceRange(PriceRange priceRange) {
-        this.priceRange = priceRange;
     }
 
     public enum Taste {

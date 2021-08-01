@@ -1,0 +1,9 @@
+1.Czy w sesji można zapamiętać jakieś dane z formularza z np. 1 html-a, 
+które chcemy wrzucić do jakiegoś modelu, a następnie do tego modelu dodać dane z kolejnego 
+html-a? Czyli na 1 html-u wybieram smak - i w parametrze przekazuję sobie jeden z dwoch smaków,
+i teraz gdzie zapisać ten smak, czy można go zapisać w sesji?? czy to bez sensu? Ten smak będzie 
+się skłądał na moje zamówienie, ale na kolejnych htmelach mam kolejne włąsciwości tego
+zamówienia. Czyli na kolejnym html-u wybieram zakres cenowy i teraz jak dpisać ten zakres
+cenowy do tego zmaówienia w którym już wybrałem smak, i następnie jak potem dorzucic jeszcze
+wszystkie dane z formularza?
+ 
